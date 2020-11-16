@@ -1,0 +1,13 @@
+C:\Users\Daumantas\source\repos\ReversiKursinis\ReversiKursinis\bin\Debug\netcoreapp3.1\ReversiKursinis.exe
+C:\Users\Daumantas\source\repos\ReversiKursinis\ReversiKursinis\bin\Debug\netcoreapp3.1\ReversiKursinis.deps.json
+C:\Users\Daumantas\source\repos\ReversiKursinis\ReversiKursinis\bin\Debug\netcoreapp3.1\ReversiKursinis.runtimeconfig.json
+C:\Users\Daumantas\source\repos\ReversiKursinis\ReversiKursinis\bin\Debug\netcoreapp3.1\ReversiKursinis.runtimeconfig.dev.json
+C:\Users\Daumantas\source\repos\ReversiKursinis\ReversiKursinis\bin\Debug\netcoreapp3.1\ReversiKursinis.dll
+C:\Users\Daumantas\source\repos\ReversiKursinis\ReversiKursinis\bin\Debug\netcoreapp3.1\ReversiKursinis.pdb
+C:\Users\Daumantas\source\repos\ReversiKursinis\ReversiKursinis\obj\Debug\netcoreapp3.1\ReversiKursinis.csprojAssemblyReference.cache
+C:\Users\Daumantas\source\repos\ReversiKursinis\ReversiKursinis\obj\Debug\netcoreapp3.1\ReversiKursinis.AssemblyInfoInputs.cache
+C:\Users\Daumantas\source\repos\ReversiKursinis\ReversiKursinis\obj\Debug\netcoreapp3.1\ReversiKursinis.AssemblyInfo.cs
+C:\Users\Daumantas\source\repos\ReversiKursinis\ReversiKursinis\obj\Debug\netcoreapp3.1\ReversiKursinis.csproj.CoreCompileInputs.cache
+C:\Users\Daumantas\source\repos\ReversiKursinis\ReversiKursinis\obj\Debug\netcoreapp3.1\ReversiKursinis.dll
+C:\Users\Daumantas\source\repos\ReversiKursinis\ReversiKursinis\obj\Debug\netcoreapp3.1\ReversiKursinis.pdb
+C:\Users\Daumantas\source\repos\ReversiKursinis\ReversiKursinis\obj\Debug\netcoreapp3.1\ReversiKursinis.genruntimeconfig.cache
